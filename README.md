@@ -42,6 +42,6 @@
 
 <h2 align="center">📫 Connect with me 📫</h2>
 <p align="center">
-  <a href="mailto:khiem.dinhnguyenviet@hcmut.edu.vn"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <span><a href="mailto:khiem.dinhnguyenviet@hcmut.edu.vn"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge"/></a> khiem.dinhnguyenviet@hcmut.edu.vn</span>
 </p>
 
