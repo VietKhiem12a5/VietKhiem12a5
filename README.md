@@ -39,4 +39,19 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/shadcn%2Fui-282C34?logo=shadcnui&logoColor=fff" alt="ShadCN/UI logo" title="ShadCN/UI" height="25" /></span>
 &nbsp;
+
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<br>
+<div align=center>
+  <a href="#" title="VietKhiem12a5">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietKhiem12a5&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&langs_count=8&layout=compact&border_color=000000&hide_border=true" />
+  </a>
+  <a href="#" title="VietKhiem12a5">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=VietKhiem12a5&show_icons=true&theme=default&border_color=000000&hide_border=true&hide=contribs" />
+  </a>
 </div>
+<h2 align="center">📫 Connect with me 📫</h2>
+<p align="center">
+  <a href="mailto:khiem.dinhnguyenviet@hcmut.edu.vn"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge"/></a>
+</p>
+
